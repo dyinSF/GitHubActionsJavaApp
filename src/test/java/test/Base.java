@@ -30,7 +30,6 @@ import org.junit.internal.AssumptionViolatedException;
 class Base {
 
     protected void run() {
-        fail();
     }
 
 }
